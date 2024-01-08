@@ -1,6 +1,6 @@
 # SonsOfTheForest-Macros
 A small collection of macros to make SOTF a little bit easier to play.
-<br />
+<br /> <br />
 Macros included:
 AutoRun (Alt+Q)
 Auto E Pickup (Alt+E)
