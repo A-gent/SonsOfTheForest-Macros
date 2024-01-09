@@ -7,7 +7,7 @@ Auto E Pickup (Alt+E) <br />
 Auto C Store (Alt+C) <br />
 Auto Clicker (Alt+Left Click) <br />
 <br /> <br />
-Navigate to the [Releases page here](https://github.com/A-gent/SonsOfTheForest-Macros/releases) and download <b>ONE</b> of the following files from the 'FIRST RELEASE' listed there: <br /> 1.) "SOTF Macros.ahk" <br /> <b>OR</b> <br /> 2.) "SOTF Macros.exe" <br /> If you choose the .AHK file you need to install [Autohotkey v1.1](https://www.autohotkey.com/download/ahk-install.exe). Which you choose to use is your choice, they are both the exact same thing but if you just use the compiled .EXE version, it is not required to install Autohotkey.
+Navigate to the [Releases page here](https://github.com/A-gent/SonsOfTheForest-Macros/releases) and download <b>ONE</b> of the following files from the 'FIRST RELEASE': <br /> 1.) "SOTF Macros.ahk" <br /> <b>OR</b> <br /> 2.) "SOTF Macros.exe" <br /> If you choose the .AHK file you need to install [Autohotkey v1.1](https://www.autohotkey.com/download/ahk-install.exe). Which you choose to use is your choice, they are both the exact same thing but if you just use the compiled .EXE version, it is not required to install Autohotkey.
 <br /> <br />
 Place the file anywhere inside of a folder of your choosing.
 <br /> <br />
